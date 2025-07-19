@@ -1,4 +1,6 @@
 🚀 Progress Steps – Mini Project
+
+
 This mini project is part of my daily coding challenge, where I build small web projects to sharpen my frontend skills.
 
 📋 About the Project
